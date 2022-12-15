@@ -1,0 +1,1 @@
+In this project, I intended to create a spotify playlist by taking the top 100 Billboard songs of a particular date given. With our private client id and client secret, we can create a spotify playlist. The user id is also required.
